@@ -8,7 +8,3 @@ def hello():
 @app.get("/about")
 def hii():
     return{'message':'hello harsh'}
-
-@app.get("/about")
-def hii():
-    return{'message':'hello harsh'}
